@@ -4,6 +4,8 @@ A short working list of resources to learn git, github, and transitioning from s
 
 Current list
 --------------
+- [Migration Path Slide Deck ](https://docs.google.com/presentation/d/1HPNp9ArYegCdbhs6kevKcbQ8gHCm8uG6j3vcMtwwerw/edit#slide=id.p
+
 - [Official Github training videos](https://training.github.com/resources/videos/)
 
 - [Introduction to GitHub webinar sign up](https://training.github.com/classes/introduction/)
