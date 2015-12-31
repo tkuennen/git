@@ -12,7 +12,7 @@ Current list
 
 - [Git tutorials sponsored by Atlasian](https://www.atlassian.com/git/)
 
--[The GitHub training kit](https://training.github.com/kit/)
+- [The GitHub training kit](https://training.github.com/kit/)
     
 - [Interactive command line tutorial via your web browser](https://try.github.io/levels/1/challenges/1)
 
