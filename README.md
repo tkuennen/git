@@ -1,5 +1,7 @@
 # git resources
 ================
+
+[![Join the chat at https://gitter.im/tkuennen/git](https://badges.gitter.im/tkuennen/git.svg)](https://gitter.im/tkuennen/git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A list of resources to learn git, github, and transitioning from svn to git.
 
 
