@@ -6,6 +6,8 @@ A list of resources to learn git, github, and transitioning from svn to git.
 --------------------------------------------------------------------------------------------------------------------------------------
 - [Migration Path Slide Deck ](https://docs.google.com/presentation/d/1HPNp9ArYegCdbhs6kevKcbQ8gHCm8uG6j3vcMtwwerw/edit#slide=id.p) ![Alt text](./assets/slide-deck.png) 
 
+- [Official Github training Guides](https://guides.github.com/) ![Alt text](./assets/guides.png) 
+
 - [Official Github training videos](https://training.github.com/resources/videos/) ![Alt text](./assets/videos.png) 
 
 - [Introduction to GitHub webinar sign up](https://training.github.com/classes/introduction/) ![Alt text](./assets/class.png) 
