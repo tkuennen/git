@@ -3,10 +3,7 @@
 
 [![Join the chat at https://gitter.im/tkuennen/git](https://badges.gitter.im/tkuennen/git.svg)](https://gitter.im/tkuennen/git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-================
-
-## A list of resources to learn git, github, and transitioning from svn to git.
-
+## A curated list of resources to learn git, Github, and transitioning from svn to git.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 - [Migration Path Slide Deck ](https://docs.google.com/presentation/d/1HPNp9ArYegCdbhs6kevKcbQ8gHCm8uG6j3vcMtwwerw/edit#slide=id.p) ![Alt text](./assets/slide-deck.png)
@@ -25,6 +22,10 @@
 
 - [A two page printable cheat sheet from Github](https://training.github.com/downloads/github-git-cheat-sheet.pdf) ![Alt text](./assets/cheat-sheet.png)
 
+- [Subversion to Git Migration](https://training.github.com/downloads/subversion-migration.html) ![Alt text](./assets/svn-git.png)
+
 - [Interactive command line tutorial via your web browser](https://try.github.io/levels/1/challenges/1) ![Alt text](./assets/trygit.png)
 
 - [A two page printable cheat sheet sponsored by the Tower Git Client](http://www.git-tower.com/blog/git-cheat-sheet/) ![Alt text](./assets/tower.png)
+
+- [The Atom text editor for Windows, Mac & Linux](https://atom.io/) ![Alt text](./assets/atom.png)
