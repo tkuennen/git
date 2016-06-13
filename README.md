@@ -6,6 +6,10 @@
 ## A curated list of resources to learn git, Github, and transitioning from svn to git.
 
 --------------------------------------------------------------------------------------------------------------------------------------
+- [Git Classes](https://www2.cisl.ucar.edu/user-support/training/library/using-git-centralized-and-distributed-version-control-workflows) ![Alt text](./assets/csg-classes.png)
+
+- [Migration Guide](https://www2.cisl.ucar.edu/resources/computational-systems/yellowstone/software/migrating-repository-subversion-git) ![Alt text](./assets/migration-guide.png)
+
 - [Migration Path Slide Deck ](https://docs.google.com/presentation/d/1HPNp9ArYegCdbhs6kevKcbQ8gHCm8uG6j3vcMtwwerw/edit#slide=id.p) ![Alt text](./assets/slide-deck.png)
 
 - [Official Github training Guides](https://guides.github.com/) ![Alt text](./assets/guides.png)
